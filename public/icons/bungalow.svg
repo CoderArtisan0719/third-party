@@ -1,0 +1,47 @@
+
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 77 73"
+  width="48"
+  height="48"
+>
+  <g fill="none" fill-rule="evenodd" transform="translate(2)">
+    <path fill="#C4A381" d="M3.067 37.194H64.4v31.907H3.067z"></path>
+    <path fill="#B38E67" d="M3.067 50.109H64.4v18.992H3.067z"></path>
+    <path fill="#FFF" d="M39.1 41.752h16.867V69.1H39.1z"></path>
+    <path fill="#52105B" d="M40.633 43.27h13.8V69.1h-13.8z"></path>
+    <g stroke="#FFF" strokeWidth="1.518">
+      <path
+        fill="#B6E1E3"
+        d="M13.033 42.512h15.333v15.194H13.033z"
+      ></path>
+      <path
+        strokeLinecap="square"
+        d="M20.7 42.512v14.434M28.366 50.109H13.033"
+      ></path>
+    </g>
+    <path
+      fill="#C4A381"
+      stroke="#262626"
+      strokeWidth="3.037"
+      d="M67.467 40.233 33.733 22 0 40.233"
+    ></path>
+    <path
+      fill="#262626"
+      fill-opacity=".1"
+      d="M33.733 23.52 64.4 40.232V69.1H33.733z"
+    ></path>
+    <path
+      stroke="#55A646"
+      strokeLinecap="round"
+      strokeWidth="4"
+      d="M0 70.62h69"
+    ></path>
+    <path
+      fill="#DEDEDE"
+      fill-rule="nonzero"
+      d="M70.5 11.952a3.751 3.751 0 0 0-5.582-4.469A6.245 6.245 0 0 0 59.5 4.35a6.248 6.248 0 0 0-6.242 6.566 5.626 5.626 0 0 0 1.867 10.934H69.5a5 5 0 0 0 1-9.898Z"
+    ></path>
+    <circle cx="10" cy="9" r="9" fill="#FFB529"></circle>
+  </g>
+</svg>

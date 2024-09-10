@@ -1,0 +1,58 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 73 77"
+  width="48"
+  height="48"
+>
+  <g fill="none" fill-rule="evenodd">
+    <path fill="#C4A381" d="M5.067 23.938H66.4v49.17H5.067z"></path>
+    <path fill="#B38E67" d="M5.067 68.57H66.4v4.539H5.067z"></path>
+    <path fill="#FFF" d="M41.1 45.876h16.867v27.233H41.1z"></path>
+    <path fill="#52105B" d="M42.633 47.389h13.8v25.72h-13.8z"></path>
+    <g stroke="#FFF" strokeWidth="1.518">
+      <path
+        fill="#B6E1E3"
+        d="M15.033 46.632h15.333v15.13H15.033z"
+      ></path>
+      <path
+        strokeLinecap="square"
+        d="M22.7 46.632v14.373M30.366 54.197H15.033"
+      ></path>
+    </g>
+    <path d="M66.4 32.26H5.067 66.4Z"></path>
+    <path
+      fill="#C4A381"
+      stroke="#262626"
+      strokeWidth="3.037"
+      d="M69.467 23.938 35.733 2 2 23.938"
+    ></path>
+    <g stroke="#FFF" strokeWidth="1.518">
+      <path
+        fill="#B6E1E3"
+        d="M15.033 23.938h15.333v15.13H15.033z"
+      ></path>
+      <path
+        strokeLinecap="square"
+        d="M22.7 23.938V38.31M30.366 31.503H15.033"
+      ></path>
+    </g>
+    <g stroke="#FFF" strokeWidth="1.518">
+      <path fill="#B6E1E3" d="M41.867 23.938H57.2v15.13H41.867z"></path>
+      <path
+        strokeLinecap="square"
+        d="M49.534 23.938V38.31M57.2 31.503H41.867"
+      ></path>
+    </g>
+    <path
+      fill="#262626"
+      fill-opacity=".1"
+      d="M35.733 3.513 66.4 23.181V73.11H35.733z"
+    ></path>
+    <path
+      stroke="#55A646"
+      strokeLinecap="round"
+      strokeWidth="4"
+      d="M2 74.622h69"
+    ></path>
+  </g>
+</svg>
